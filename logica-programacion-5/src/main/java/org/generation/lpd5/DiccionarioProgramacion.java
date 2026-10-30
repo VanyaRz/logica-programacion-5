@@ -62,9 +62,7 @@ public class DiccionarioProgramacion {
             }
         }
 
-        System.out.println("\n=================================");
-        System.out.println("       RESULTADOS DE LA RONDA        ");
-        System.out.println("=================================");
+        System.out.println("\n=================================\n       RESULTADOS FINALES        \n=================================");
         System.out.println("Respuestas correctas:   " + correctas);
         System.out.println("Respuestas incorrectas: " + incorrectas);
 
